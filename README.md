@@ -1,3 +1,3 @@
-# Udacity-Data-Engineer-nanodegree
-Project for Udacity Program: Udacity data engineering nanodegree
+# Udacity-Data-Engineer-Capstone-Projects
+Capstone Projects for Udacity data engineering nanodegree
 
